@@ -1,0 +1,8 @@
+Nikola Kovac
+
+Software je funkcijalan, ali nema ui.
+Ne ispisuje da li mogu da kucam brojeve.
+Ne dopada mi se sto prva stvar koju ispisuje je da kucamo "exit" da bi izasli, bilo bi bolje da ispise kada odradimo prvu kalkulaciju.
+
+Odradio sam mali test uneo sam 10/2+4*2-3 i dobio sam rezultat 10, sto je tacno, tako da funkcije sve rade.
+Takodje funkcija EXIT normalno radi.
